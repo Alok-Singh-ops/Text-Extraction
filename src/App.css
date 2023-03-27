@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.left {
+  width: 50%;
+  border-right: 3px solid #ccc;
+  /* padding: 20px; */
+}
+
+.right {
+  width: 50%;
+  /* padding: 20px; */
+}
+
+.canvas {
+  border: 1px solid red;
+}
+
+/* #canvasWrapper{
+  position:relative;
+}
+
+body{ background-color: ivory; }
+canvas{
+  border: 1px solid red;
+  position: absolute;
+} */
